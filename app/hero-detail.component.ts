@@ -2,7 +2,7 @@
  * Created by lin on 2017/1/17.
  */
 import {Component, Input, OnInit} from '@angular/core';
-import {Hero} from './Hero';
+import {Hero} from './hero';
 import {HeroService} from './hero.service';
 import {ActivatedRoute, Params} from '@angular/router';
 import {Location} from '@angular/common';
